@@ -1,0 +1,62 @@
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\BELibrary.dll.config
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\BELibrary.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\BELibrary.pdb
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\AutoMapper.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\EntityFramework.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\System.Memory.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\AutoMapper.pdb
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\AutoMapper.xml
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\EntityFramework.xml
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+G:\Download_chrome\New folder\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.csprojAssemblyReference.cache
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.Migrations.Initdatabase.resources
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.Migrations.New_Article_table.resources
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.dll
+G:\Download_chrome\New folder\Source\BELibrary\obj\Debug\BELibrary.pdb
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\BELibrary.dll.config
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\BELibrary.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\BELibrary.pdb
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\AutoMapper.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\EntityFramework.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\System.Memory.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\System.ValueTuple.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\Z.Expressions.Eval.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\AutoMapper.pdb
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\AutoMapper.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\AutoMapper.Extensions.Microsoft.DependencyInjection.pdb
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\EntityFramework.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\EntityFramework.SqlServer.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\System.ValueTuple.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\Z.EntityFramework.Extensions.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\Z.EntityFramework.Plus.EF6.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\bin\Debug\Z.Expressions.Eval.xml
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.csproj.AssemblyReference.cache
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.Migrations.Initdatabase.resources
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.Migrations.New_Article_table.resources
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.csproj.GenerateResource.cache
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.csproj.CoreCompileInputs.cache
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.csproj.CopyComplete
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.dll
+G:\Download_chrome\qlbn_web\Source\BELibrary\obj\Debug\BELibrary.pdb

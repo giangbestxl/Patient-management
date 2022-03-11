@@ -1,0 +1,404 @@
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\HospitalManagement.dll.config
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\HospitalManagement.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\HospitalManagement.pdb
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\csc.exe
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\csc.exe.config
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\csc.rsp
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\csi.exe
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\csi.exe.config
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\csi.rsp
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Console.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\vbc.exe
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\vbc.rsp
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\AutoMapper.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\BELibrary.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\CKFinder.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\EntityFramework.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\log4net.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\PagedList.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\PagedList.Mvc.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.ValueTuple.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Helpers.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Mvc.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Optimization.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Razor.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.WebPages.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\WebGrease.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\BELibrary.pdb
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\BELibrary.dll.config
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\AutoMapper.pdb
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\AutoMapper.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\EntityFramework.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\log4net.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\PagedList.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\PagedList.Mvc.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.ValueTuple.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Helpers.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Mvc.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Optimization.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.Razor.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.WebPages.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+G:\Download_chrome\New folder\Source\HospitalManagement\obj\Debug\HospitalManagement.csprojAssemblyReference.cache
+G:\Download_chrome\New folder\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+G:\Download_chrome\New folder\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+G:\Download_chrome\New folder\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+G:\Download_chrome\New folder\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\HospitalManagement.dll.config
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\HospitalManagement.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\HospitalManagement.pdb
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\csc.exe
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\csc.exe.config
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\csc.rsp
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\csi.exe
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\csi.exe.config
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\csi.rsp
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Console.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\vbc.exe
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\vbc.rsp
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\AutoMapper.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\BELibrary.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\CKFinder.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\EntityFramework.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\log4net.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\PagedList.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\PagedList.Mvc.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.ValueTuple.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Helpers.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Mvc.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Optimization.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Razor.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.WebPages.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\WebGrease.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\BELibrary.pdb
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\BELibrary.dll.config
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\AutoMapper.pdb
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\AutoMapper.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\EntityFramework.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\log4net.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\PagedList.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\PagedList.Mvc.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.ValueTuple.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Helpers.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Mvc.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Optimization.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.Razor.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.WebPages.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
+G:\Download_chrome\qlbn_web\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\HospitalManagement.dll.config
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\HospitalManagement.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\HospitalManagement.pdb
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\csc.exe
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\csc.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\csc.rsp
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\csi.exe
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\csi.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\csi.rsp
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Console.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\vbc.exe
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\vbc.rsp
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\AutoMapper.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\BELibrary.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\CKFinder.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\EntityFramework.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\log4net.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\PagedList.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\PagedList.Mvc.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.ValueTuple.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Helpers.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Mvc.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Optimization.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Razor.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.WebPages.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\WebGrease.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\BELibrary.pdb
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\BELibrary.dll.config
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\AutoMapper.pdb
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\AutoMapper.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\EntityFramework.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\log4net.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\PagedList.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\PagedList.Mvc.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.ValueTuple.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Helpers.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Mvc.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Optimization.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.Razor.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.WebPages.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+G:\Download_chrome\TTLTWeb_Nhom4_18DDS08031\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\HospitalManagement.dll.config
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\HospitalManagement.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\HospitalManagement.pdb
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\csc.exe
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\csc.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\csc.rsp
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\csi.exe
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\csi.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\csi.rsp
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.AppContext.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Collections.Immutable.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Console.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.IO.Compression.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.IO.Pipes.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Reflection.Metadata.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.AccessControl.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.Claims.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.ValueTuple.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\vbc.exe
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\vbc.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\vbc.rsp
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\roslyn\VBCSCompiler.exe.config
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Antlr3.Runtime.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\AutoMapper.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\BELibrary.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\CKFinder.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\EntityFramework.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\EntityFramework.SqlServer.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\log4net.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Microsoft.Web.Infrastructure.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Newtonsoft.Json.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\PagedList.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\PagedList.Mvc.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.ValueTuple.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Helpers.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Mvc.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Optimization.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Razor.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.WebPages.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.WebPages.Razor.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\WebGrease.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Z.Expressions.Eval.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\BELibrary.pdb
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\BELibrary.dll.config
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\AutoMapper.pdb
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\AutoMapper.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\EntityFramework.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\EntityFramework.SqlServer.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\log4net.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\PagedList.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\PagedList.Mvc.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.ValueTuple.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Helpers.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Mvc.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Optimization.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.Razor.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.WebPages.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.WebPages.Deployment.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\System.Web.WebPages.Razor.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Newtonsoft.Json.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Antlr3.Runtime.pdb
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Z.EntityFramework.Plus.EF6.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Z.EntityFramework.Extensions.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\bin\Z.Expressions.Eval.xml
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\obj\Debug\HospitalManagement.csproj.CopyComplete
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\obj\Debug\HospitalManagement.dll
+G:\Download_chrome\TTLTWeb_Nhom4\Source\HospitalManagement\obj\Debug\HospitalManagement.pdb
